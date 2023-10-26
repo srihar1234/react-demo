@@ -10,7 +10,7 @@ function App() {
   return (
       <div className="app">
         <WorkSpace>
-            <TopBar>TOP BAR</TopBar>
+            <TopBar>TOP BAR which also have children</TopBar>
             <SideBar>SIDE BAR</SideBar>
             <Main>MAIN BAR</Main>
         </WorkSpace>
